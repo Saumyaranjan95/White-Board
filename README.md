@@ -21,7 +21,3 @@ WhiteBoard is a web-based drawing application that allows users to draw shapes, 
 - **CSS**: For styling the application, including responsiveness and animations.
 - **JavaScript**: For the functionality and interactivity of the application.
 
-## Setup
-
-
-    https://github.com/Youngswadhin/whiteboard.git
